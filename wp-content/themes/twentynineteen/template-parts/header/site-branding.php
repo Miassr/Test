@@ -8,7 +8,7 @@
  */
 ?>
 <div class="site-branding">
-	<h1>TEST</h1>
+	<h1>Coucou</h1>
 
 	<?php if ( has_custom_logo() ) : ?>
 		<div class="site-logo"><?php the_custom_logo(); ?></div>
